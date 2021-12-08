@@ -1,4 +1,4 @@
-### my first blog
+my first blog
 Hola everyone, welcome to my first blog 
 I'm Pradeep Patwa currently studing Electronics and Telecommunication engineering. I'm very passionate about technology and engineering. 
 I'm also interested in sustainable developement. I think that artifical inteligence and machine lerning can be a game changing technology for the development of human kind. 
