@@ -1,4 +1,8 @@
 ---
+title: "Pradeep Patwa blog"
+date: 2021-12-10
+---
+---
 layout: post
 title:  "Welcome to Jekyll!"
 ---
